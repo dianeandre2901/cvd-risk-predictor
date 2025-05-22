@@ -127,4 +127,3 @@ best_thresh <- thresholds[which.max(f1_scores)]
 cat(sprintf("\nBest F1 threshold: %.2f (F1 = %.3f)\n", best_thresh, max(f1_scores, na.rm = TRUE)))
 ```
 
-Let me know if you'd like to generate a clean `results/metrics.csv` writer from this script too!
