@@ -63,6 +63,25 @@ This project investigates whether Hormone Replacement Therapy (HRT) history can 
 This work demonstrates how ML can enhance risk stratification in women's cardiovascular health. By identifying accessible and stable biomarkers, this approach could guide future screening strategies — especially when direct hormone measures are missing.
 
 ---
+## 📁 Repo Structure (R project)
+
+```
+cvd-risk-predictor/
+├── README.md
+├── data/
+│   └── ukbiobank_cleaned.csv      # not uploaded
+├── scripts/
+│   ├── preprocessing.R            # matching, imputation
+│   ├── stability_lasso.R          # sharp + LASSO
+│   ├── random_forest.R            # model + tuning
+│   └── evaluation_plots.R         # confusion, ROC, metrics
+├── results/
+│   ├── roc_curve_lasso.png
+│   ├── confusion_rf.png
+│   └── final_metrics.csv
+└── renv.lock / .Rproj             # R project dependencies
+```
+---
 
 
 ## 💻 Tools Used
