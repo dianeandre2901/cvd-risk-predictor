@@ -2,7 +2,7 @@
 
 This folder is intentionally left empty to comply with UK Biobank data access terms.
 
-The data used in this project comes from the UK Biobank under approved access (Project ID: XXXX).  
+The data used in this project comes from the UK Biobank under approved access.  
 It includes baseline, biomarker, and primary care prescription data for ~26,000 postmenopausal women.
 
 ## 📌 Contents (expected structure)
