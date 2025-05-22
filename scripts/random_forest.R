@@ -1,4 +1,4 @@
-# 🌳 Random Forest Pipeline with Feature Importance 
+#  Random Forest Pipeline with Feature Importance 
 
 This script trains and evaluates a Random Forest model for CVD risk prediction. It includes:
 - Top feature selection via Gini importance
@@ -6,8 +6,6 @@ This script trains and evaluates a Random Forest model for CVD risk prediction. 
 - Full ROC, AUC, F1 tuning
 - Confusion matrix visualizations
 - SHAP-based explainability
-
-## 📁 `scripts/random_forest_model.R`
 
 ```r
 # Load packages
