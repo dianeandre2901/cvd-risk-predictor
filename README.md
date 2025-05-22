@@ -64,22 +64,11 @@ This work demonstrates how ML can enhance risk stratification in women's cardiov
 
 ---
 
-## 📁 Project Structure
-cvd-risk-predictor/
-├── data/                 # Input data (not uploaded to GitHub)
-├── src/                  # Code: training scripts, modeling
-├── notebooks/            # Exploratory notebooks (EDA, SHAP)
-├── results/              # Confusion matrices, ROC, metrics
-├── README.md             # You are here
-└── requirements.txt      # Dependencies
-
-
----
 
 ## 💻 Tools Used
-- Python (Pandas, NumPy, Scikit-learn, SHAP)
-- R (`sharp`, `mice`, `randomForest`)
-- Matplotlib & Seaborn for plotting
+
+- R (`dplyr`,`sharp`, `mice`, `randomForest`)
+
 
 ---
 
