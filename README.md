@@ -78,9 +78,4 @@ This work demonstrates how ML can enhance risk stratification in women's cardiov
 - Validate model on more diverse populations  
 - Expand to study testosterone therapy in men
 
----
 
-## 📬 Contact
-
-Made with ❤️ by Diane  
-🎀 [GitHub](https://github.com/dianeandre2901) ・ [LinkedIn](https://www.linkedin.com/in/...)  
